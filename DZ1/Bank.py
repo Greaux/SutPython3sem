@@ -1,4 +1,5 @@
 import account
+import convertor
 
 def main():
     rate = int(input('Введите процентную ставку:'))
